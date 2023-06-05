@@ -8,7 +8,8 @@ To Design the various parts of a mechanical component and assemble it using a bo
 ## REQUIREMENTS: 
 1. Autodesk fusion 360
 2. Windows 10
-3. 4 GB of RAM (integrated graphics recommend 6 GB or more)
+3. 4 GB of RAM (integrated graphics recommend 6
+ GB or more)
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## COMMANDS USED:
@@ -63,6 +64,6 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
-
+![a93129f8-b076-4849-a275-f0c9dd4d5791](https://github.com/tamizhselvan1920/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/121148386/d71b5aa1-29f0-4d6f-b941-44a7ae90befd)
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
